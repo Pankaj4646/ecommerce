@@ -1,0 +1,10 @@
+# Ignore specific files
+.env
+
+
+# Ignore a folder
+node_modules/
+/dist/
+
+# Ignore all log files
+*.log
